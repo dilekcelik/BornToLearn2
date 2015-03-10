@@ -24,5 +24,7 @@ import java.util.*;
 	            System.out.printf("%s ", list1.get(i));
 	        }
 	    }
+
+	
 	}
 
